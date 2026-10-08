@@ -1,0 +1,11 @@
+/* Shared responsive adjustments live here as the final cascade layer. */
+
+@media (max-width: 640px) {
+  .students-page > div:first-child {
+    padding: 1rem;
+  }
+
+  .details-page-container .details-card {
+    box-shadow: 6px 6px 0 #ffedd5;
+  }
+}

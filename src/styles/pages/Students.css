@@ -1,0 +1,3 @@
+.students-header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.5rem; }
+.students-title { font-size: 1.75rem; font-weight: 800; color: var(--text-main); }
+.students-subtitle { color: var(--text-muted); font-size: 0.92rem; }

@@ -1,0 +1,4 @@
+.student-card-identity { display: flex; align-items: center; gap: 0.75rem; }
+.student-card-name { font-size: 1rem; font-weight: 700; color: var(--text-main); }
+.student-card-meta { font-size: 0.78rem; color: var(--text-muted); }
+.student-card-course { font-weight: 600; color: var(--primary); }

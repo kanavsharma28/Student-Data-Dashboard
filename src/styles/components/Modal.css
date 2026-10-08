@@ -1,0 +1,4 @@
+.modal-alert-icon.danger { color: var(--danger); }
+.modal-alert-icon.primary { color: var(--primary); }
+.modal-student-name { margin-top: 0.5rem; font-weight: 700; color: var(--text-main); }
+.modal-warning { margin-top: 0.5rem; font-size: 0.84rem; color: var(--text-dim); }

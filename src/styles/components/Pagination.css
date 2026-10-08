@@ -1,0 +1,2 @@
+.pagination-total { font-weight: 700; color: var(--text-main); }
+.pagination-ellipsis { padding: 0 0.4rem; color: var(--text-dim); user-select: none; }

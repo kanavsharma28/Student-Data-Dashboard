@@ -1,0 +1,5 @@
+.table-actions-heading { text-align: center; }
+.table-student-name { font-weight: 700; }
+.table-student-meta { font-size: 0.78rem; color: var(--text-muted); }
+.table-muted-value { color: var(--text-muted); }
+.table-actions-centered { justify-content: center; }

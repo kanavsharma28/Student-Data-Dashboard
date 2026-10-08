@@ -1,0 +1,30 @@
+.error-icon { color: var(--danger); }
+
+.error-troubleshooting {
+  font-size: 0.82rem;
+  background-color: var(--bg-card);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+  text-align: left;
+  width: 100%;
+  max-width: 460px;
+}
+
+.error-troubleshooting-text { margin-top: 0.25rem; color: var(--text-muted); }
+
+.error-command {
+  display: block;
+  margin-top: 0.4rem;
+  padding: 0.35rem 0.5rem;
+  background-color: var(--bg-muted);
+  border-radius: 4px;
+  font-family: monospace;
+  color: var(--primary);
+}
+
+.error-retry { margin-top: 0.5rem; }
+
+.error-card { background-color: var(--danger-light); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: var(--radius-lg); padding: 2rem; text-align: center; max-width: 600px; margin: 2rem auto; display: flex; flex-direction: column; align-items: center; gap: 1rem; }
+.error-title { font-size: 1.2rem; font-weight: 700; color: var(--danger-text); }
+.error-desc { font-size: 0.92rem; color: var(--text-muted); max-width: 460px; }
