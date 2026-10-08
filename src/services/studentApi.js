@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base API URL for JSON Server
-const API_URL = 'http://localhost:3000/students';
+const API_URL = 'http://your-service-name.onrender.com/students';
 
 // Axios instance with default headers and timeout
 const apiClient = axios.create({
